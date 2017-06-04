@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1496555140 source:f:\c++ tic tac toe\tic tac toe\main.cpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<windows.h>
+
